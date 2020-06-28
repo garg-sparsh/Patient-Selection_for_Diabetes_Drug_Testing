@@ -93,4 +93,4 @@ ipython3 kernel install --name diabetes_drug_testing --user
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md]()
+This project is licensed under the MIT License
